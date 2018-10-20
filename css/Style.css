@@ -1,0 +1,17 @@
+.form-group{
+    margin: 15px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+    margin: 5px;
+}
+.form-control{
+    border-radius: 3px;
+}
+.success-text{
+    color: red;
+}
+.hidden-text{
+    display: none;
+}
